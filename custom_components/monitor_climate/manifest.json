@@ -1,0 +1,9 @@
+{
+    "domain": "monitor_climate",
+    "name": "Monitor Climate",
+    "documentation": "https://github.com/suda/ha_monitor_climate",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": [],
+    "version": "0.1.0"
+}

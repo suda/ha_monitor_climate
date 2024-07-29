@@ -1,0 +1,1 @@
+"""The Monitor Climate integration."""
