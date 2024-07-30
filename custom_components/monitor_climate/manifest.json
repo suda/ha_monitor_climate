@@ -1,9 +1,10 @@
 {
-    "domain": "monitor_climate",
+    "domain": "generic_thermostat",
     "name": "Monitor Climate",
     "documentation": "https://github.com/suda/ha_monitor_climate",
     "dependencies": [],
     "codeowners": [],
     "requirements": [],
+    "issue_tracker": "https://github.com/suda/ha_monitor_climate/issues",
     "version": "0.1.0"
 }
